@@ -1,6 +1,7 @@
 {
 	"author": "Tife Obideyi",
 	"name": "fcc-learn-npm-package-json",
+	"description": "A freecodecamp tutorial for npm and node",
 	"dependencies": {
 		"express": "^4.17.1"
 	},
